@@ -1,8 +1,22 @@
 <!-- Header -->
+<!-- WAVE BACKGROUND -->
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=28&pause=1000&color=7C3AED&center=true&vCenter=true&width=600&lines=Hi%2C+I'm+Athariq+Qur'ani+Fajri;Computer+Engineering+Student;Web+%26+App+Developer;Laravel+%7C+Flutter+%7C+IoT" alt="Typing SVG" />
+  <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:7C3AED,100:EC4899&height=230&section=header&text=Athariq%20Qur'ani%20Fajri&fontSize=48&fontColor=ffffff&animation=fadeIn&fontAlignY=38"/>
 </p>
 
+<!-- TYPING TEXT -->
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=26&pause=800&color=F472B6&center=true&vCenter=true&width=700&lines=Computer+Engineering+Student;Fullstack+Web+%26+Mobile+Developer;Laravel+%7C+Flutter+%7C+IoT+%7C+AI;Building+Real+Impact+with+Technology" />
+</p>
+
+<!-- BADGES -->
+<p align="center">
+  <img src="https://img.shields.io/badge/Role-Fullstack%20Developer-7C3AED?style=for-the-badge&logo=github&logoColor=white" />
+  <img src="https://img.shields.io/badge/Focus-Startup%20%26%20UMKM-EC4899?style=for-the-badge" />
+  <img src="https://komarev.com/ghpvc/?username=thoriqqrn&style=for-the-badge&color=6366F1" />
+</p>
+
+![snake gif](https://github.com/thoriqqrn/thoriqqrn/blob/output/github-contribution-grid-snake.svg)
 ---
 
 ## 👋 About Me
@@ -41,22 +55,22 @@
 
 ## 📊 GitHub Stats (Auto Update)
 <p align="center">
-  <img height="170" src="https://github-readme-stats.vercel.app/api?username=USERNAME_KAMU&show_icons=true&theme=radical&hide_border=true" />
-  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=USERNAME_KAMU&layout=compact&theme=radical&hide_border=true" />
+  <img height="170" src="https://github-readme-stats.vercel.app/api?username=thoriqqrn&show_icons=true&theme=radical&hide_border=true" />
+  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=thoriqqrn&layout=compact&theme=radical&hide_border=true" />
 </p>
 
 ---
 
 ## 🔥 Contribution Streak
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com?user=USERNAME_KAMU&theme=radical&hide_border=true" />
+  <img src="https://github-readme-streak-stats.herokuapp.com?user=thoriqqrn&theme=radical&hide_border=true" />
 </p>
 
 ---
 
 ## 🏆 GitHub Trophies
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=USERNAME_KAMU&theme=radical&no-frame=true&row=1&column=6" />
+  <img src="https://github-profile-trophy.vercel.app/?username=thoriqqrn&theme=radical&no-frame=true&row=1&column=6" />
 </p>
 
 ---
