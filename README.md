@@ -16,7 +16,6 @@
   <img src="https://komarev.com/ghpvc/?username=thoriqqrn&style=for-the-badge&color=6366F1" />
 </p>
 
-![snake gif](https://github.com/thoriqqrn/thoriqqrn/blob/output/github-contribution-grid-snake.svg)
 ---
 
 ## 👋 About Me
